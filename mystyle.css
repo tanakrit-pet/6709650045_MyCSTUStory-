@@ -35,46 +35,50 @@ body{
     width: 100% ;
     font-family: Arial, sans-serif;
 }
-
+/* MY Future */
 header {
     width: 100%;
     padding: 10px;
-    background-color: yellow;
+    background-color: rgba(255, 255, 0, 0);
     border: 1px solid gray;
     text-align: center;
+    font-family: "Oswald", sans-serif;
+    color: #FFFFF0;
+    font-size: 50px;
+    
 }
 nav {
     float: left;
     height: 200px;
     width: 20% ;
     padding: 10px;
-    background-color: yellow;
+    background-color: rgba(255, 255, 0, 0);
     border: 1px solid gray;
     text-align: center;
+    color: #FFFFF0;
+    font-family: "Oswald", sans-serif;
+    font-size: 30px;
 }
 article {
     float: left;
     height: 200px;
-    width: 60% ;
+    width: 80% ;
     padding: 10px;
-    background-color: yellow;
-    border: 1px solid gray;
+    background-color: rgba(255, 255, 0, 0);
+    border: 1px solid rgba(128, 128, 128, 0);
     text-align: center;
-}
-div {
-    float: left;
-    height: 200px;
-    width: 20% ;
-    padding: 10px;
-    background-color: yellow;
-    border: 1px solid gray;
-    text-align: center;
+    font-family: "Oswald", sans-serif;
+    color: #FFFFF0;
+    font-size: 30px;
 }
 footer {
     width: 100%;
     padding: 10px;
-    background-color: yellow;
+    background-color: rgba(255, 255, 0, 0);
     border: 1px solid gray;
     text-align: center;
     clear: both;
+    font-family: "Oswald", sans-serif;
+    color: #FFFFF0;
+    font-size: 30px;
 }
