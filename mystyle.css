@@ -19,8 +19,62 @@ table{
     text-align: left ;
 }
 #he{
+    font-size: 150px;
     font-family: "Oswald", sans-serif;
+    color: #FFFFF0;
 }
 .profileul{
     color: rgb(36, 19, 100);
+}
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    width: 100% ;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    width: 100%;
+    padding: 10px;
+    background-color: yellow;
+    border: 1px solid gray;
+    text-align: center;
+}
+nav {
+    float: left;
+    height: 200px;
+    width: 20% ;
+    padding: 10px;
+    background-color: yellow;
+    border: 1px solid gray;
+    text-align: center;
+}
+article {
+    float: left;
+    height: 200px;
+    width: 60% ;
+    padding: 10px;
+    background-color: yellow;
+    border: 1px solid gray;
+    text-align: center;
+}
+div {
+    float: left;
+    height: 200px;
+    width: 20% ;
+    padding: 10px;
+    background-color: yellow;
+    border: 1px solid gray;
+    text-align: center;
+}
+footer {
+    width: 100%;
+    padding: 10px;
+    background-color: yellow;
+    border: 1px solid gray;
+    text-align: center;
+    clear: both;
 }
