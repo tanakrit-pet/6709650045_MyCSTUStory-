@@ -86,3 +86,9 @@ footer {
     height: 900px;
     width: 50%;
 }
+p{
+    color: #FFFFF0;
+    font-weight: 900;
+    font-family: "Oswald", sans-serif;
+    font-size: 30px;
+}
