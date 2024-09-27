@@ -92,3 +92,12 @@ p{
     font-family: "Oswald", sans-serif;
     font-size: 30px;
 }
+.nav li{
+    display: inline;
+    font-family: "Oswald", sans-serif;
+    font-size: 40px;
+}
+a{
+    color: #d2d2b9;
+    padding: 20px;
+}
